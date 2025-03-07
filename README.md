@@ -1,4 +1,4 @@
-This is an edit made by Deshny 
+Edited by Madarang
 # Git-Control
 ## Steps to Clone Repository in Local Machine: 
 1. Open git bash
