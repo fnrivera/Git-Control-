@@ -1,4 +1,3 @@
-This is an edit made by Deshny 
 # Git-Control
 ## Steps to Clone Repository in Local Machine: 
 1. Open git bash
@@ -10,7 +9,7 @@ This is an edit made by Deshny
 
 ## How to Work with GitHub
 1. Start by going to the directory of the project you are working on  ```cd <directory/here/project-name> ```
-2. Open the project using any IDE (VS Code, Eclipse, Notpad++, etc)
+2. Open the project using any IDE (VS Code, Eclipse, Notepad++, etc)
 3. Before on a project it is a standard to first pull the latest branch  ```git pull ```
 4. Now checkout the branch where you want to place your code  ```git checkout <branch-name> ```
 5. Add the changes you want to apply
