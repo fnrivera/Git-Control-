@@ -25,3 +25,6 @@
 13. Add a title and description for your PR
 14. Assign the PR to your Tech Lead (TL) or any one who can review you code
 15. After reviewing and resolving comments your branch will now be merge to the base branch
+
+
+APPLIED CHANGES
